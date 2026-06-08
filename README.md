@@ -15,7 +15,6 @@ I am deeply immersed in the Linux ecosystem and mobile ecosystem.
 * **Tools:** Micro, Git, VS Code
 
 ## 📚 Current Pursuits
-* **Language Learning:** Dedicated to mastering Japanese (targeting N5/N4 proficiency) using Anki and Minno Nihongo.
 * **Professional Growth:** Preparing for the NSTB Level 1 Computer Operator certification.
 * **Education:** Focus on English and Health Education (B.Ed. 2nd Year).
 
